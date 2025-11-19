@@ -15,3 +15,6 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+
+git config --global user.name "Ramya"
+git config --global user.email "ramya18597@gmail.com"
